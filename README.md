@@ -24,6 +24,8 @@ I’ve also included some external resources and readings that go beyond our cou
 
 The journey through this semester will be filled with learning and growth. Let’s make the most of it by sharing knowledge, helping each other, and pushing the boundaries of what we can achieve. Here’s to a successful and fulfilling Monsoon 2023 semester at IIIT Hyderabad!
 
+**If you find this repository useful, I would greatly appreciate it if you could give it a star! ⭐**
+
 Cheers,  
 Shivani Thakur  
 M.Tech-CSE, IIIT Hyderabad
