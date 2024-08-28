@@ -1,0 +1,10 @@
+USE CUSTOMER_DB;
+DROP PROCEDURE greater;
+DELIMITER $$
+CREATE PROCEDURE greater(IN amount int)
+BEGIN
+SELECT CUST_NAME,CUST_CITY FROM customer where PAYMENT_AMT > amount;
+END $$
+DELIMITER ;
+
+call greater(5000);
