@@ -1,4 +1,4 @@
-# Welcome to IIIT Hyderabad - M.Tech-CSE (Monsoon 2023) 🌟
+# Welcome to IIIT Hyderabad - M.Tech-CSE (Monsoon 2023-24) 🌟
 
 Greetings, everyone! 👋
 
